@@ -1,1 +1,2 @@
+KERMARREC Maxime
 Éditez-le pour y ajouter une courte description du fait que vous aller utiliser ce dépôt pour le TP1 du cours de Cproj.
